@@ -178,3 +178,7 @@ flowchart TD
 ## 范围
 
 只支持 Linux。一条连接只发一封信。没有 `PIPELINING`、`XOAUTH2`，也不支持非 ASCII 邮箱地址。使用这个静态库的程序，链接时仍然要带上 `libssl`、`libcrypto` 和 `pthread`。
+
+## 协议
+
+本项目以 [MIT License](LICENSE) 授权。Copyright (c) 2026 SparkTheCreater。

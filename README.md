@@ -178,3 +178,7 @@ flowchart TD
 ## Limits
 
 Linux only. One message per connection. No `PIPELINING`, `XOAUTH2`, or non-ASCII mailbox addresses. The link line for a program that uses the static library still needs `libssl`, `libcrypto`, and `pthread`.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 SparkTheCreater.
